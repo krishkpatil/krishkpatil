@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @krishkpatil
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on LinkdIn
-- 📫 How to reach me Twitter - [@patilkkrish](https://twitter.com/Patilkkrish) ,
-                      LinkdIn - [Krish Patil](https://www.linkedin.com/in/krish-patil-299167197/)
+- 💞️ I’m looking to collaborate on LinkedIn
+- 📫 How to reach me 
+                      LinkedIn - [Krish Patil](https://www.linkedin.com/in/krish-patil-299167197/)
 
 
 <!---
