@@ -10,23 +10,18 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about uncovering i
 ## 🚀 Skills and Technologies
 
 ### Programming Languages & Tools
-- **Languages**: Python, SQL, Rust, JavaScript
-- **Libraries & Frameworks**: PyTorch, TensorFlow, Power BI, Anchor CLI
-- **Cloud & Blockchain**: AWS (EC2, S3, IAM, VPC), Solana Blockchain, Smart Contracts
-- **Version Control**: Git
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+- ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Machine Learning Expertise
-- **Models & Techniques**: BERT, LSTMs, Deep Learning, NLP, Data Analysis
+### Libraries & Frameworks
+- **Machine Learning**: PyTorch, TensorFlow, BERT, LSTMs, Deep Learning
 - **Data Processing**: Data Wrangling, Data Cleaning, Automation with Python
+- **Visualization**: Power BI
 
 ## 📫 How to Reach Me
 - Connect with me on LinkedIn: [Krish Patil](https://www.linkedin.com/in/krish-patil)
 
 ### ⚡ Fun Fact
 I love diving into tech discussions and exploring the synergy between technology and human creativity!
-
-
-<!---
-krishkpatil/krishkpatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
