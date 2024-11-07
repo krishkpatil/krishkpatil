@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me 
-                      LinkedIn - [Krish Patil](https://www.linkedin.com/in/krish-patil-299167197/)
+                      LinkedIn - [Krish Patil](https://www.linkedin.com/in/krish-patil)
 
 
 <!---
