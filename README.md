@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Krish Patil
 
-Welcome to my GitHub profile! I'm a Data Scientist passionate about uncovering insights and solving complex problems through data. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a Data Science Graduate passionate about uncovering insights and solving complex problems through data. Here's a bit more about me:
 
 - 📊 **Data Science Enthusiast**: I enjoy building predictive models, analyzing data, and applying machine learning to real-world challenges.
 - 🌱 **Currently Learning**: Continuously enhancing my Python and machine learning skills.
@@ -15,13 +15,6 @@ Welcome to my GitHub profile! I'm a Data Scientist passionate about uncovering i
 - ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Libraries & Frameworks
-- **Machine Learning**: PyTorch, TensorFlow, BERT, LSTMs, Deep Learning
-- **Data Processing**: Data Wrangling, Data Cleaning, Automation with Python
-- **Visualization**: Power BI
-
 ## 📫 How to Reach Me
 - Connect with me on LinkedIn: [Krish Patil](https://www.linkedin.com/in/krish-patil)
 
-### ⚡ Fun Fact
-I love diving into tech discussions and exploring the synergy between technology and human creativity!
